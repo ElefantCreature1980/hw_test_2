@@ -146,9 +146,9 @@ Content Cell  | Content Cell
 
 ### Git commands for work with remote repositories
 
-- git clone <url-адрес репозитория> – клонирование внешнего репозитория на
-локальный ПК
-- git pull – получение изменений и слияние с локальной версией
-- git push – отправляет локальную версию репозитория на внешний
+- *git clone <url-адрес репозитория>* – **клонирование внешнего репозитория на
+локальный ПК**
+- *git pull* – **получение изменений и слияние с локальной версией**
+- *git push* – **отправляет локальную версию репозитория на внешний**
 
 *For each command has a many keys, with them you can add a options and parameters to execute*
