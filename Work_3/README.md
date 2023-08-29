@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @0xMaksim0x
+- 👀 I’m interested in getting new knowledge, through experience and practice, in work and training as a programmer!
+- 🌱 I’m currently learning for a programmer and a tester
+- 💞️ I’m looking to collaborate on development and testing of all types of programs
+- 📫 How to reach me mikkhailesku@mail.ru
